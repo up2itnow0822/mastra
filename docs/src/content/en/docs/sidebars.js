@@ -701,6 +701,11 @@ const sidebars = {
           id: 'community/discord',
           label: 'Discord',
         },
+        {
+          type: 'doc',
+          id: 'community/community-plugins',
+          label: 'Community Plugins',
+        },
       ],
     },
   ],

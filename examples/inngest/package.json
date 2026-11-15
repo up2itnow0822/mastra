@@ -29,6 +29,7 @@
   },
   "pnpm": {
     "overrides": {
+      "@opentelemetry/instrumentation-http": ">=0.222.0",
       "@mastra/inngest": "link:../../workflows/inngest",
       "@mastra/libsql": "link:../../stores/libsql",
       "@mastra/loggers": "link:../../packages/loggers",

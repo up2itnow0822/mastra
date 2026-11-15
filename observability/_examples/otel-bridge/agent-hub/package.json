@@ -51,6 +51,7 @@
   },
   "pnpm": {
     "overrides": {
+      "@opentelemetry/instrumentation-http": ">=0.222.0",
       "@mastra/core": "link:../../../../packages/core",
       "@mastra/libsql": "link:../../../../stores/libsql",
       "@mastra/observability": "link:../../../mastra",
